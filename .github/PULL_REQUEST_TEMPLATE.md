@@ -1,17 +1,10 @@
-<!--
-Thank you for your pull request. Please provide a description above and review
-the requirements below.
+### Description:
 
-Bug fixes and new features should include tests and possibly benchmarks.
+_Write description here_
 
-Tip: `npm run bench` to compare branches interactively.
+### Changes:
 
-Contributors guide: https://github.com/fastify/fastify/blob/master/CONTRIBUTING.md
--->
+- _List of changes here_
 
-#### Checklist
-
-- [ ] run `npm run test` and `npm run benchmark`
-- [ ] tests and/or benchmarks are included
-- [ ] documentation is changed or added
-- [ ] commit message and code follows [Code of conduct](https://github.com/fastify/fastify/blob/master/CODE_OF_CONDUCT.md)
+### Confirm Changes
+-  [] I have tested all my changes thoroughly.

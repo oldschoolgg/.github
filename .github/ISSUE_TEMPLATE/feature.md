@@ -4,22 +4,6 @@ labels: feature request
 about: Submit a proposal for a new feature
 ---
 
-<!--
-Before you submit an issue we recommend you visit [Fastify Help](https://github.com/fastify/help) and ask any questions you have or mention any problems you've had getting started with Fastify.
-
-**Please read this entire template before posting any issue. If you ignore these instructions
-and post an issue here that does not follow the instructions, your issue might be closed,
-locked, and assigned the `missing discussion` label.**
--->
-
 ## 🚀 Feature Proposal
 
-A clear and concise description of what the feature is.
-
-## Motivation
-
-Please outline the motivation for the proposal.
-
-## Example
-
-Please provide an example for how this feature would be used.
+Describe the feature you're suggesting here, give lots of information and describe it as best you can. Please check that the feature hasn't already been suggested first, by searching the issues in this repository.
